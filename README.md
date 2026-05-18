@@ -1,66 +1,81 @@
 <div align="center">
 
-# 👋 Hi, I'm Nirmiti Suvagia
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B0F19,100:3B82F6&text=Nirmiti%20Suvagia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-### 🚀 Backend & Full-Stack Engineer • SaaS Builder • AI-Assisted Developer
+# 🚀 Backend & Full-Stack Engineer  
+### Building Scalable SaaS Platforms • Real-Time Systems • AI-Assisted Products
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Scalable+SaaS+Platforms;Real-Time+Systems+Engineer;AI-Assisted+Development+Workflows;React+%2B+Node.js+%2B+Supabase" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Scalable+Backend+Engineering;AI-Assisted+Development+Workflows;React+%2B+Node.js+%2B+Supabase;Building+Modern+SaaS+Platforms;Clean+Architecture+%26+Real-Time+Systems" />
 
-<p>
-  <a href="https://github.com/nirmitisuvagia">
-    <img src="https://img.shields.io/github/followers/nirmitisuvagia?label=GitHub&style=for-the-badge&color=111827&labelColor=1f2937" />
-  </a>
+<br/>
 
-  <a href="https://www.linkedin.com/in/nirmiti-suvagia-90682923b">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+<a href="https://github.com/nirmitisuvagia">
+  <img src="https://img.shields.io/github/followers/nirmitisuvagia?label=GitHub&style=for-the-badge&color=111827&labelColor=1f2937" />
+</a>
 
-  <a href="mailto:nirmitisuvagia@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/nirmiti-suvagia-90682923b">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:nirmiti.190410107137@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
 
 </div>
 
 ---
 # 💫 About Me
 
-<table>
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🚀 Backend & Full-Stack Engineer
+
+Building scalable SaaS platforms,  
+real-time systems, and AI-assisted products.
+
+</div>
+
+<br/>
+
+<table align="center">
 <tr>
-<td width="60%">
+<td align="center" width="33%">
 
-```ts
-const nirmiti = {
-  role: "Backend & Full Stack Engineer",
+### ⚡ Focus
 
-  focuses: [
-    "Scalable SaaS Platforms",
-    "Real-Time Applications",
-    "AI-Assisted Development",
-    "Clean Architecture"
-  ],
-
-  techStack: {
-    frontend: ["React.js", "Next.js"],
-    backend: ["Node.js", "Express.js"],
-    database: ["PostgreSQL", "MongoDB", "Supabase"]
-  },
-
-  currentlyExploring: [
-    "System Design",
-    "Advanced Backend",
-    "AI Workflows"
-  ],
-
-  mindset: "Keep learning. Keep building."
-};
-```
+Scalable backend systems  
+Modern SaaS architecture  
+Performance-first engineering
 
 </td>
 
-<td width="40%">
+<td align="center" width="33%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+### 🤖 AI Workflow
+
+ChatGPT  
+Claude  
+Lovable  
+Antigravity
+
+</td>
+
+<td align="center" width="33%">
+
+### 🌱 Currently Exploring
+
+System Design  
+AI Engineering  
+Advanced Backend  
+Product Architecture
 
 </td>
 </tr>
@@ -68,12 +83,11 @@ const nirmiti = {
 
 ---
 
-- ⚡ Building scalable & real-time systems  
-- 🚀 Creating SaaS products using AI-assisted workflows  
-- 🧠 Strong focus on performance & clean architecture  
-- 🌱 Fast learner exploring modern technologies  
-- 🎯 Passionate about impactful product engineering  
----
+<div align="center">
+
+✨ Fast learner • Clean architecture • Real-time systems • Product thinking ✨
+
+</div>
 
 # 🛠️ Tech Stack
 
@@ -81,21 +95,21 @@ const nirmiti = {
 
 ### ⚙️ Backend & APIs
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,ts,javascript" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,ts,javascript,socketio" />
 
----
+<br/><br/>
 
 ### 🎨 Frontend & UI
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 
----
+<br/><br/>
 
 ### 🗄️ Database & Cloud
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,supabase,firebase,aws" />
 
----
+<br/><br/>
 
 ### 🔧 Tools & Integrations
 
@@ -109,8 +123,8 @@ const nirmiti = {
 
 <div align="center">
 
-| AI Tools | Purpose |
-|---|---|
+| AI Tool | Usage |
+|:---|:---|
 | ChatGPT | Architecture & Development |
 | Claude | Logic Planning & Code Workflows |
 | Lovable | SaaS UI & Product Generation |
@@ -120,26 +134,25 @@ const nirmiti = {
 
 <br/>
 
-> Leveraging AI-assisted workflows to accelerate SaaS development, frontend systems, backend architecture, and rapid prototyping.
+> Leveraging AI-assisted workflows to accelerate SaaS development, backend systems, UI generation, and rapid product delivery.
 
 ---
 
 # 🚀 Featured Projects
 
-<div align="center">
-
 <table>
 <tr>
+
 <td width="50%">
 
 ## 🏭 Dealer CMS SaaS Platform
 
-Multi-tenant CMS platform where machinery dealers can create and launch their own live business websites.
+Multi-tenant CMS platform where machinery dealers can create and launch their own business websites dynamically.
 
 ### ✨ Highlights
 - Dynamic website builder
 - Dealer storefront management
-- Product sync from central admin
+- Centralized product sync
 - Multi-tenant architecture
 
 ### ⚙️ Stack
@@ -151,42 +164,59 @@ Multi-tenant CMS platform where machinery dealers can create and launch their ow
 
 ## 🌐 Referra Platform
 
-Referral & hierarchical network platform with crypto integrations and earnings workflows.
+Referral & network management platform with crypto integrations and hierarchical earning workflows.
 
 ### ✨ Highlights
 - Referral hierarchy system
 - Commission tracking
 - Binance API integration
-- Wallet workflows
+- Wallet & earning flows
 
 ### ⚙️ Stack
 `React.js` `Supabase` `Binance API`
 
 </td>
+
 </tr>
 </table>
-
-</div>
 
 ---
 
 # 🚖 More Projects
 
-### 🚘 Zanrides — Ride Booking Platform
+## 🚘 Zanrides — Ride Booking Platform
+
 - Real-time ride tracking
 - Live communication using Socket.io
-- Payment gateway integrations
+- Secure payment integrations
 
 `Node.js` `TypeScript` `Socket.io` `MySQL`
 
 ---
 
-### 🎓 Prepabac — EdTech Platform
+## 🎓 Prepabac — EdTech Platform
+
 - Video lectures & quizzes
 - Automated certificate generation
 - Optimized backend workflows
 
 `JavaScript` `MongoDB` `AWS`
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nirmitisuvagia&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=nirmitisuvagia&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nirmitisuvagia&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
 
@@ -200,10 +230,12 @@ Referral & hierarchical network platform with crypto integrations and earnings w
 
 <br/>
 
-```txt
+<pre>
+<code>
 Performance is not an optimization later.
 It is part of the product experience.
-```
+</code>
+</pre>
 
 ---
 
@@ -215,7 +247,7 @@ It is part of the product experience.
   <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
-<a href="mailto:nirmitisuvagia@gmail.com">
+<a href="mailto:nirmiti.190410107137@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
 </a>
 
