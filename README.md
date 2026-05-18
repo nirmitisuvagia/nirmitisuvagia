@@ -28,10 +28,10 @@
 
 <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-```js
+```javascript
 const nirmiti = {
   role: "Software Engineer",
-  
+
   specialization: [
     "Backend Engineering",
     "Full Stack SaaS Platforms",
